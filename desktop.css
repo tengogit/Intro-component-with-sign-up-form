@@ -1,0 +1,23 @@
+@media(min-width:1440px) {
+    .cont {
+        max-width: 1440px;
+        display: grid;
+        grid-template-columns: auto auto;
+        padding: 121px 164px;
+        gap: 48px;
+
+
+    }
+
+    header {
+        width: 525px;
+        height: 225px;
+        margin-top: 240px;
+    }
+
+    main {
+        width: 540px;
+        height: 558px;
+    }
+
+}

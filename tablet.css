@@ -1,0 +1,38 @@
+@media(min-width:768px) {
+    .cont {
+        max-width: 768px;
+        padding: 88px 114px;
+    }
+
+    h1 {
+        font-size: 50px;
+        line-height: 110%;
+        letter-spacing: -0.5px;
+    }
+
+    section {
+        padding: 32px 40px;
+    }
+
+    input {
+        margin-bottom: 24px;
+    }
+
+    .bluebtn {
+        height: 60px;
+    }
+
+    .greenbtn {
+        margin-top: 24px;
+    }
+
+    .erroricon {
+        left: 390px;
+        margin-top: -65px;
+    }
+
+    p {
+        top: 60px;
+        left: 295px;
+    }
+}
