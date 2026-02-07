@@ -19,12 +19,13 @@
 }
 
 body {
-    min-height: 100vh;
+    min-height: 100dvh;
     user-select: none;
     overflow-x: hidden;
     overflow-y: auto;
     font-family: "Poppins", sans-serif;
     background-image: url(./assets/Contbg.svg);
+    scroll-behavior: smooth;
 
 
 }
